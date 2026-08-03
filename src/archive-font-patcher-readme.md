@@ -1,7 +1,7 @@
 
 # Nerd Fonts
 
-This is font-patcher python script (and required source files) from a Nerd Fonts release.
+This is the font-patcher python script (and required source files) from a Nerd Fonts release.
 
 ## Running
 
@@ -13,3 +13,9 @@ This is font-patcher python script (and required source files) from a Nerd Fonts
 For more information see:
 * https://github.com/ryanoasis/nerd-fonts/
 * https://github.com/ryanoasis/nerd-fonts/releases/latest/
+
+## Licensing
+
+This script has an MIT license.
+
+The added icons' authors and licenses can be found in the `src/` subdirectory.
